@@ -13,7 +13,7 @@ My name is Arham. I'm a designer and coder.
 
 <p align="left">
 <a href="https://twitter.com/ArhamK_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArhamK_" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/arham-khan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham-khan01" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/arham-khan01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham-khan01" height="30" width="40" /></a>
 </p>
 
 

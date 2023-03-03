@@ -2,7 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-My name is Arham. I'm a designer and coder.
+My name is Arham. I'm a designer and developer.
 
 🔸 I’m currently learning **Prompt  Engineering, AI and Deep Learning**
 

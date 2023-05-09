@@ -10,9 +10,4 @@ My name is Arham. I'm a designer and developer.
 
 # GitHub Stats
 
-<a href="https://github.com/arham-kk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham-kk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/arham-kk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arham-kk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arham's GitHub Stats" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arham-kk&theme=github-dark-blue)](https://git.io/streak-stats)

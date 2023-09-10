@@ -20,7 +20,3 @@ My name is Arham. I'm a designer & developer.
 🔸 I’m currently learning **Prompt  Engineering, AI and Deep Learning**
 
 🔸 All of my projects & updates are available on my Github
-
-# GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arham-kk&theme=github-dark-blue)](https://git.io/streak-stats)
